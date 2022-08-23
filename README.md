@@ -13,7 +13,6 @@ Olá! Me chamo Julio Henrique, tenho 17 anos,  moro em Jaú/SP e sou técnico em
 <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
 
 <div>
 <a href="#">
