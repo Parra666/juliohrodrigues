@@ -1,7 +1,7 @@
 ### 📙 Sobre Mim:
 Olá! Me chamo Julio Henrique, tenho 17 anos,  moro em Jaú/SP e sou técnico em <b>Desenvolvimento de Sistemas</b> pela <b>ETEC Joaquim Ferreira do Amaral</b>.
 
-#### 💻 Linguagens:
+### 💻 Linguagens:
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
